@@ -16,10 +16,6 @@
            sync-c="true"
            sync-j="4" />
 
-<project path="build" name="nadlabak/android_build">
-  <copyfile src="core/root.mk" dest="Makefile" />
-</project>
-
 <project path="android" name="nadlabak/android" />
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
