@@ -16,9 +16,6 @@
            sync-c="true"
            sync-j="4" />
 
-<project path="android" name="nadlabak/android" />
-  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
-  <project path="bionic" name="CyanogenMod/android_bionic" />
 <project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
 <project path="kernel" name="nadlabak/kernel" revision="master" />
 
